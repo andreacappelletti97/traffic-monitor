@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="MapData3" type="Multirun" factoryName="Multirun" separateTabs="true" startOneByOne="true" markFailedProcess="false" hideSuccessProcess="false" delayTime="0">
+    <runConfiguration name="CentralSystem" type="Application" />
+    <runConfiguration name="centralina (0)" type="Application" />
+    <runConfiguration name="mobileapp (0)" type="Application" />
+    <runConfiguration name="mobileapp (1)" type="Application" />
+    <runConfiguration name="mobileapp (2)" type="Application" />
+    <runConfiguration name="mobileapp (3)" type="Application" />
+    <method v="2" />
+  </configuration>
+</component>

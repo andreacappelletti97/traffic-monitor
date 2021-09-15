@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="centralina (0)" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="ReportSender" />
+    <module name="root" />
+    <option name="PROGRAM_PARAMETERS" value="0" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="mobileapp (0)" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="MobileAppInterface" />
+    <module name="root" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
